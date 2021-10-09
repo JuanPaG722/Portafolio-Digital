@@ -111,7 +111,7 @@ div.logo-beh{
     text-shadow: 2px 2px 2px rgb(29, 29, 31);
     z-index: 5
 }
-div.container-tituconta{
+.container-tituconta{
     color: white;
     position:absolute;
     top: 30%;
@@ -121,7 +121,7 @@ div.container-tituconta{
     font-family: 'Doppio One', sans-serif;
     text-align: center;
 }
-div.container-conta{
+.container-conta{
     text-align: center;
     color: white;
     position:absolute;
